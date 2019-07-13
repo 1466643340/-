@@ -1,0 +1,8 @@
+div{
+    display:block;
+    float:left;
+    padding:15%;
+    border-radius: 20%;
+    background-color:red;
+    margin:1%;   
+}
